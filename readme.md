@@ -5,7 +5,7 @@ Install these libraries
 4. import the file 'expensetracker.sql' in the expensetracker database that is created in the 3rd step
 5. Execute the file main.py
 
-![](images/Home.jpg)
+![](images/Home.JPG)
 ![](images/MonthlyChart.png)
 ![](images/AddIncome.png)
 ![](images/AddExpense.png)
